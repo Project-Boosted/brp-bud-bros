@@ -92,3 +92,7 @@ Add These To Your Shared.Lua
 		['combinable'] = nil,
 		['description'] = 'Brownie.'
 	},
+	["ground_og"] 					 = {["name"] = "ground_og", 			 		["label"] = "Ground OGKush 2g", 		["weight"] = 200, 		["type"] = "item", 		["image"] = "ground-weed.png", 			    ["unique"] = false, 	["useable"] = true, 	["shouldClose"] = false,   ["combinable"] = nil,   ["description"] = "Ground Down 2g OG Kush"},
+	["ground_amnesia"] 				 = {["name"] = "ground_amnesia", 			 	["label"] = "Ground Amnesia 2g", 		["weight"] = 200, 		["type"] = "item", 		["image"] = "ground-weed.png", 			    ["unique"] = false, 	["useable"] = true, 	["shouldClose"] = false,   ["combinable"] = nil,   ["description"] = "Ground Down 2g Amnesia"},
+	["ground_widow"] 				 = {["name"] = "ground_widow", 			 		["label"] = "Ground Widow 2g", 			["weight"] = 200, 		["type"] = "item", 		["image"] = "ground-weed.png", 			    ["unique"] = false, 	["useable"] = true, 	["shouldClose"] = false,   ["combinable"] = nil,   ["description"] = "Ground Down 2g Widow"},
+	
